@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ZG089/ZG089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Telegram](t.me/zgx_dev), [XDA](https://xdaforums.com/m/zg089.11432109/)
 - 😄 Pronouns: He/Him 🧑
 - ⚡ Fun fact: OPPO A5s sucks
--->
