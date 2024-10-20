@@ -1,7 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I am ZG089 aka ZG_DEV !
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on TWRP for OPPO A5s
 - 🌱 I’m currently learning AOSP Development
