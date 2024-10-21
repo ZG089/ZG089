@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/ZG089/ZG089/refs/heads/main/assets/ZG089%20Banner.png)
+![Banner](https://github.com/ZG089/ZG089/blob/38e60ec01ea100f2a3d91e78f9caa7633d5f79e5/assets/ZG089%20BANNER.png)
 
 
 - 🔭 I’m currently working on TWRP for OPPO A5s
