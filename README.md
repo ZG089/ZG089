@@ -1,5 +1,8 @@
-![Banner](https://github.com/ZG089/ZG089/blob/08ad274404952dbdfce71b91ef5f824307a6e235/assets/Copy%20of%20LIMITED%20TIME%20ONLY%20(2160%20x%201080%20px).gif)
 
+![Banner](https://github.com/ZG089/ZG089/blob/08ad274404952dbdfce71b91ef5f824307a6e235/assets/Copy%20of%20LIMITED%20TIME%20ONLY%20(2160%20x%201080%20px).gif)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZG089&style=flat-square" alt="Profile Views" class="center">
+</div>
 
 - 🔭 I’m currently working on TWRP for OPPO A5s
 - 🌱 I’m currently learning AOSP Development
