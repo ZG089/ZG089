@@ -4,8 +4,8 @@
   <img src="https://visitcount.itsvg.in/api?id=ZG089&icon=0&color=3" alt="Profile Views" class="center">
 </div>
 
-# 💫 About Me:
-I am an Egyptian developer who love android development, Tech stuff and learning new things!
+# 👦 About Me:
+I am a 16-year-old Egyptian developer who love android development, Tech stuff and learning new things!
 
 
 # 💻 Tech Stack:
@@ -18,8 +18,13 @@ I am an Egyptian developer who love android development, Tech stuff and learning
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZG089&theme=gotham2&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ⚙ Repos/projects that I maintain currently :
+<div align=center>   
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZG089&repo=Re-Malwack"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZG089&repo=android_device_OPPO_CPH1909"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZG089&repo=Lazy_Action-Recoverys-Builder"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZG089&repo=G-Font-Module"/>  
+</div>
 
 ---
 
