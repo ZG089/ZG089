@@ -5,7 +5,7 @@
 </div>
 
 # 💫 About Me:
-Hello! I am ZG089, an Egyptian developer who loves android development, Tech stuff and learning new things!
+I am an Egyptian developer who love android development, Tech stuff and learning new things!
 
 
 # 💻 Tech Stack:
