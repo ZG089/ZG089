@@ -43,7 +43,7 @@ I am a 16-year-old Egyptian developer who love android development, Tech stuff a
 <div align=center>   
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZG089&repo=Re-Malwack"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZG089&repo=android_device_OPPO_CPH1909"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZG089&repo=Lazy_Action-Recoverys-Builder"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZG089&repo=Re-Malwack-Lite"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZG089&repo=G-Font-Module"/>  
 </div>
 
