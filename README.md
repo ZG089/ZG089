@@ -5,7 +5,10 @@
 </div>
 
 # 👦 About Me:
-I am a 16-year-old Egyptian developer who love android development, Tech stuff and learning new things!
+I am a 16-year-old Egyptian developer who love android development, magisk modules, bash lang and learning new things!
+
+# You can reach me out via:
+[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/zgx_dev) 
 
 
 # 👨‍💻 Programming Languages I have learnt / still learning
