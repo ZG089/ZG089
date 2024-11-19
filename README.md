@@ -21,7 +21,7 @@ I am a 16-year-old Egyptian developer who love android development, Tech stuff a
 
 # 🌎 Operating systems I use
 
-![Android](https://img.shields.io/badge/android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=green) ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+![Android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg) ![Manjaro](https://ziadoua.github.io/m3-Markdown-Badges/badges/Manjaro/manjaro3.svg) ![Windows 10](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows101.svg) ![win 11](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows111.svg)
 
 # 👨‍💻 Tools and technologies I use
 
