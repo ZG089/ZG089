@@ -42,14 +42,6 @@ I am a 16-year-old Egyptian developer who love android development, magisk modul
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZG089&theme=gotham2&no-frame=false&no-bg=false&margin-w=4)
 
-### ⚙ Repos/projects that I maintain currently :
-<div align=center>   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZG089&repo=Re-Malwack"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZG089&repo=android_device_OPPO_CPH1909"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZG089&repo=Re-Malwack-Lite"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZG089&repo=G-Font-Module"/>  
-</div>
-
 ---
 
   ## 💰 You can help me by Donating, your support will always be apperciated!
