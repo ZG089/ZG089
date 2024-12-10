@@ -35,9 +35,8 @@ I am a 16-year-old Egyptian developer who love android development, magisk modul
 ![Udacity](https://img.shields.io/badge/Udacity-white?style=for-the-badge&logo=udacity&logoColor=#5FCFEE) ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) ![FREECODECAMP](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![Youtube](https://img.shields.io/badge/Youtube-%23B92B27.svg?&style=for-the-badge&logo=youtube&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZG089&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZG089&theme=gotham&hide_border=true)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZG089&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)</br>
+![](https://github-readme-stats.vercel.app/api?username=ZG089&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZG089&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZG089&theme=gotham2&no-frame=false&no-bg=false&margin-w=4)
