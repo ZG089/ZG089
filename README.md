@@ -41,7 +41,13 @@ I am a 16-year-old Egyptian developer who love android development, magisk modul
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZG089&theme=gotham2&no-frame=false&no-bg=false&margin-w=4)
 
----
+## 🤩 Projects I have helped with
+<div align="center">
+    <strong><a href="https://github.com/backslashxx/bindhosts">BindHosts</a></strong> - 
+    <strong><a href="https://github.com/theimpulson/ReLabs">ReLabs</a></strong> - 
+    <strong><a href="https://github.com/XayahSuSuSu/Android-DataBackup">DataBackup</a></strong> - 
+    <strong><a href="https://github.com/DerGoogler/MMRL">MMRL</a></strong>
+</div>
 
   ## 💰 You can help me by Donating, your support will always be apperciated!
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zg089) 
