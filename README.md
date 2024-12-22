@@ -46,7 +46,8 @@ I am a 16-year-old Egyptian developer who love android development, magisk modul
     <strong><a href="https://github.com/backslashxx/bindhosts">BindHosts</a></strong> - 
     <strong><a href="https://github.com/theimpulson/ReLabs">ReLabs</a></strong> - 
     <strong><a href="https://github.com/XayahSuSuSu/Android-DataBackup">DataBackup</a></strong> - 
-    <strong><a href="https://github.com/DerGoogler/MMRL">MMRL</a></strong>
+    <strong><a href="https://github.com/DerGoogler/MMRL">MMRL</a></strong> -
+    <strong><a href="https://play.google.com/store/apps/details?id=com.paget96.batteryguru">BatteryGuru</a></strong>
 </div>
 
   ## 💰 You can help me by Donating, your support will always be apperciated!
