@@ -43,6 +43,7 @@ I am a 16-year-old Egyptian developer who love android development, magisk modul
 
 ## 🤩 Projects I have helped with
 <div align="center">
+    <strong><a href="https://github.com/Magisk-Modules-Alt-Repo/Malwack">Malwack</a></strong> -
     <strong><a href="https://github.com/backslashxx/bindhosts">BindHosts</a></strong> - 
     <strong><a href="https://github.com/theimpulson/ReLabs">ReLabs</a></strong> - 
     <strong><a href="https://github.com/XayahSuSuSu/Android-DataBackup">DataBackup</a></strong> - 
