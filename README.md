@@ -1,7 +1,7 @@
 
 ![Banner](https://github.com/ZG089/ZG089/blob/12cfd6add034e8ae2f6a0d310839963f264f9d69/assets/ZGX.gif)
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ZG089&icon=0&color=3" alt="Profile Views" class="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=ZG089&repo=ZG089&countColor=%237B1E7A" alt="Profile Views" class="center">
 </div>
 
 # 👦 About Me:
