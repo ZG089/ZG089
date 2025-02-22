@@ -44,7 +44,8 @@ I always have the passion to be better, and I always improve my knowledge with a
     <strong><a href="https://github.com/theimpulson/ReLabs">ReLabs</a></strong> - 
     <strong><a href="https://github.com/XayahSuSuSu/Android-DataBackup">DataBackup</a></strong> - 
     <strong><a href="https://github.com/DerGoogler/MMRL">MMRL</a></strong> -
-    <strong><a href="https://play.google.com/store/apps/details?id=com.paget96.batteryguru">BatteryGuru</a></strong>
+    <strong><a href="https://play.google.com/store/apps/details?id=com.paget96.batteryguru">BatteryGuru</a></strong> -
+    <strong><a href="https://github.com/WSTxda/ViperFX-RE-Releases">ViperFX For Android</a></strong>
 </div>
 
   ## 💰 You can help me by Donating, your support will always be apperciated!
