@@ -45,6 +45,9 @@ I always have the passion to be better, and I always improve my knowledge with a
     <strong><a href="https://github.com/DerGoogler/MMRL">MMRL</a></strong> -
     <strong><a href="https://play.google.com/store/apps/details?id=com.paget96.batteryguru">BatteryGuru</a></strong> -
     <strong><a href="https://github.com/WSTxda/ViperFX-RE-Releases">ViperFX For Android</a></strong>
+    <strong><a href="https://github.com/KOWX712/Tricky-Addon-Update-Target-List">Tricky Addon</a></strong>
+    <strong><a href="https://encore.rem01gaming.dev/">Encore Tweaks</a></strong>
+    <strong><a href="https://github.com/Sparkleseditor/Sparkleseditor">Sparkles Editor</a></strong>
 </div>
 
   ## 💰 You can help me by Donating, your support will always be apperciated!
