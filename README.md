@@ -53,7 +53,7 @@ I always have the passion to be better, and I always improve my knowledge with a
     <strong><a href="https://github.com/fynks/awesome-android-root">awesome-android-root</a></strong>
 </div>
 
-  ## 💰 You can help me by Donating, your support will always be apperciated!
+  ## 💰 You can support me by Donating, your help to me will always be apperciated!
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zg089) 
 
 
