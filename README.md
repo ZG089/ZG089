@@ -50,7 +50,8 @@ I always have the passion to be better, and I always improve my knowledge with a
     <strong><a href="https://github.com/Sparkleseditor/Sparkleseditor">Sparkles Editor</a></strong> -
     <strong><a href="https://github.com/KernelSU-Next/KernelSU-Next">KernelSU Next</a></strong> - 
     <strong><a href="https://github.com/bmax121/APatch">APatch</a></strong> -
-    <strong><a href="https://github.com/fynks/awesome-android-root">awesome-android-root</a></strong>
+    <strong><a href="https://github.com/fynks/awesome-android-root">awesome-android-root</a></strong> -
+    <strong><a href="https://github.com/forsaken-heart24/HorizonUX">HorizonUX</a></strong>
 </div>
 
   ## 💰 You can support me by Donating, your help to me will always be apperciated!
