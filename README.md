@@ -59,7 +59,8 @@ I always have the passion to be better, and I always improve my knowledge with a
     <strong><a href="https://github.com/topjohnwu/Magisk">Magisk</a></strong> -
     <strong><a href="https://github.com/mrx7014/SuperMario-Tweaker">SMTW</a></strong> -
     <strong><a href="https://github.com/omersusin/ABBMS">ABBMS</a></strong> -
-    <strong><a href="https://github.com/WSTxda/Clippy">Clippy</a></strong>
+    <strong><a href="https://github.com/WSTxda/Clippy">Clippy</a></strong> -
+    <strong><a href="https://github.com/mrx7014/S24Ultra-Spoofer">S24U-Spoofer</a></strong>
 </div>
 
   ## 💰 You can support me by Donating, your help to me will always be apperciated!
