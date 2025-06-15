@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/ZG089/ZG089/blob/12cfd6add034e8ae2f6a0d310839963f264f9d69/assets/ZGX.gif)
+![Banner](https://raw.githubusercontent.com/ZG089/ZG089/refs/heads/main/assets/ZGX.png)
 <div align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=ZG089&repo=ZG089&countColor=%237B1E7A" alt="Profile Views" class="center">
 </div>
