@@ -68,7 +68,8 @@ I always have the passion to be better, and I always improve my knowledge with a
     <strong><a href="https://github.com/mrx7014/ProjectVortex">ProjectVortex</a></strong> -
     <strong><a href="https://github.com/daglaroglou/LimitlessPhotos">LimitlessPhotos</a></strong> -
     <strong><a href="https://github.com/WSTxda/SwitchAI">SwitchAI</a></strong> -
-    <strong><a href="https://github.com/imjyotiraditya/EchoirX">EchoirX (DISCONTINUED)</a></strong>
+    <strong><a href="https://github.com/imjyotiraditya/EchoirX">EchoirX (DISCONTINUED)</a></strong> -
+    <strong><a href="https://github.com/YasserNull/setbox">SetBox</a></strong>
 </div>
 
   ## 💰 You can support me by Donating, your help to me will always be appreciated!
