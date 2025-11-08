@@ -47,10 +47,10 @@ I always have the passion to be better, and I always improve my knowledge with a
     <strong><a href="https://github.com/KOWX712/Tricky-Addon-Update-Target-List">Tricky Addon</a></strong> -
     <strong><a href="https://github.com/sidex15/susfs4ksu-module">SusFS</a></strong> -
     <strong><a href="https://github.com/KOWX712/PlayIntegrityFix">PlayIntegrityFix (Fork by KOWX712)</a></strong> -
+    <strong><a href="https://github.com/PerformanC/ReZygisk">ReZygisk</a></strong> -
     <strong><a href="https://encore.rem01gaming.dev/">Encore Tweaks</a></strong> -
     <strong><a href="https://github.com/DerGoogler/MMRL">MMRL</a></strong> -
     <strong><a href="https://github.com/YurikeyDev/yurikey">Yurikey</a></strong> -
-    <strong><a href="https://github.com/ayumi-aiko/Katana">Katana</a></strong> -
     <strong><a href="https://github.com/XayahSuSuSu/Android-DataBackup">DataBackup</a></strong> - 
     <strong><a href="https://play.google.com/store/apps/details?id=com.paget96.batteryguru">BatteryGuru</a></strong> -
     <strong><a href="https://github.com/WSTxda/ViperFX-RE-Releases">ViperFX For Android</a></strong> -
@@ -59,7 +59,6 @@ I always have the passion to be better, and I always improve my knowledge with a
     <strong><a href="https://github.com/WSTxda/Google-Shortcuts-Launcher">Google Shortcuts Launcher</a></strong> -
     <strong><a href="https://github.com/theimpulson/ReLabs">ReLabs (Discontinued)</a></strong> - 
     <strong><a href="https://github.com/ihatenodejs/BeeSrv/">BeeSrv</a></strong> -
-    <strong><a href="https://github.com/PerformanC/ReZygisk">ReZygisk</a></strong> -
     <strong><a href="https://github.com/mrx7014/SuperMario-Tweaker">SMTW</a></strong> -
     <strong><a href="https://github.com/omersusin/ABBMS">ABBMS</a></strong> -
     <strong><a href="https://github.com/WSTxda/Clippy">Clippy</a></strong> -
