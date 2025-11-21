@@ -41,6 +41,7 @@ I always have the passion to be better, and I always improve my knowledge with a
     <strong><a href="https://github.com/topjohnwu/Magisk">Magisk</a></strong> -
     <strong><a href="https://github.com/KernelSU-Next/KernelSU-Next">KernelSU Next</a></strong> - 
     <strong><a href="https://github.com/bmax121/APatch">APatch</a></strong> -
+    <strong><a href="https://github.com/LSPosed/LSPosed">LSPosed</a></strong> -
     <strong><a href="https://github.com/Magisk-Modules-Alt-Repo/Malwack">Malwack</a></strong> -
     <strong><a href="https://github.com/backslashxx/bindhosts">BindHosts</a></strong> -
     <strong><a href="https://github.com/mikropsoft/StevenBlock">StevenBlock</a></strong> -
@@ -48,6 +49,7 @@ I always have the passion to be better, and I always improve my knowledge with a
     <strong><a href="https://github.com/sidex15/susfs4ksu-module">SusFS</a></strong> -
     <strong><a href="https://github.com/KOWX712/PlayIntegrityFix">PlayIntegrityFix (Fork by KOWX712)</a></strong> -
     <strong><a href="https://github.com/PerformanC/ReZygisk">ReZygisk</a></strong> -
+    <strong><a href="https://github.com/salvogiangri/UN1CA">UN1CA</a></strong> -
     <strong><a href="https://encore.rem01gaming.dev/">Encore Tweaks</a></strong> -
     <strong><a href="https://github.com/DerGoogler/MMRL">MMRL</a></strong> -
     <strong><a href="https://github.com/YurikeyDev/yurikey">Yurikey</a></strong> -
