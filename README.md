@@ -80,4 +80,4 @@ I always have the passion to be better, and I always improve my knowledge with a
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zg089) 
 
 
-![waves](https://camo.githubusercontent.com/01613641e066bc78acfda1be0d89b5010939de377b715d7d24b370434bde46cb/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3131302673656374696f6e3d666f6f746572)
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
