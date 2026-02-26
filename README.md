@@ -1,7 +1,7 @@
 
 ![Banner](https://raw.githubusercontent.com/ZG089/ZG089/refs/heads/main/assets/Banner.png)
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=ZG089&repo=ZG089&countColor=%235224c4" alt="Profile Views" class="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=ZG089&repo=ZG089&countColor=%235224c4&labelColor=%23000000" alt="Profile Views" class="center">
 </div>
 
 # 👦 About Me:
