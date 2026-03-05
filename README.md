@@ -30,10 +30,16 @@ I always have the passion to be better, and I always improve my knowledge with a
 ![Udacity](https://img.shields.io/badge/Udacity-white?style=for-the-badge&logo=udacity&logoColor=#5FCFEE) ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) ![FREECODECAMP](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![Youtube](https://img.shields.io/badge/Youtube-%23B92B27.svg?&style=for-the-badge&logo=youtube&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZG089&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ZG089&theme=gotham2&no-frame=false&no-bg=false&margin-w=4)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://card.shiina.xyz/card/ZG089?theme=github_dark&compact=true&animate=true"
+  />
+  <img src="https://card.shiina.xyz/card/ZG089?compact=true&animate=true" alt="GitHub Stats" />
+</picture>
 
+## 🏆 GitHub Trophies
+![](https://github-trophies.vercel.app/?username=ZG089)
 ## 🤩 Projects I have helped with
 <div align="center">
     <strong><a href="https://github.com/topjohnwu/Magisk">Magisk</a></strong> -
