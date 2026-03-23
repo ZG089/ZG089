@@ -1,8 +1,19 @@
 
 ![Banner](https://raw.githubusercontent.com/ZG089/ZG089/refs/heads/main/assets/Banner.png)
 <div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://card.shiina.xyz/card/ZG089?theme=github_dark&compact=true&animate=true"
+  />
+  <img src="https://card.shiina.xyz/card/ZG089?compact=true&animate=true" alt="GitHub Stats" />
+</picture>
+</div>
+
+<div align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=ZG089&repo=ZG089&countColor=%235224c4&labelColor=%23000000" alt="Profile Views" class="center">
 </div>
+
 
 # 👦 About Me:
 I am a 18-year-old Egyptian developer, and a 11th grader, who love android development, magisk modules development, and coding!
@@ -28,15 +39,6 @@ I always have the passion to be better, and I always improve my knowledge with a
 
 # ✨ My Learning sources
 ![Udacity](https://img.shields.io/badge/Udacity-white?style=for-the-badge&logo=udacity&logoColor=#5FCFEE) ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) ![FREECODECAMP](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![Youtube](https://img.shields.io/badge/Youtube-%23B92B27.svg?&style=for-the-badge&logo=youtube&logoColor=white)
-
-# 📊 GitHub Stats:
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://card.shiina.xyz/card/ZG089?theme=github_dark&compact=true&animate=true"
-  />
-  <img src="https://card.shiina.xyz/card/ZG089?compact=true&animate=true" alt="GitHub Stats" />
-</picture>
 
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=ZG089)
