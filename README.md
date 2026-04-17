@@ -51,6 +51,7 @@ I always have the passion to be better, and I always improve my knowledge with a
     <strong><a href="https://github.com/LSPosed/LSPosed">LSPosed</a></strong> -
     <strong><a href="https://github.com/Magisk-Modules-Alt-Repo/Malwack">Malwack</a></strong> -
     <strong><a href="https://github.com/backslashxx/bindhosts">BindHosts</a></strong> -
+    <strong><a href="https://github.com/frknkrc44/HMA-OSS">HMA-OSS</a></strong> -
     <strong><a href="https://github.com/mikropsoft/StevenBlock">StevenBlock</a></strong> -
     <strong><a href="https://github.com/KOWX712/Tricky-Addon-Update-Target-List">Tricky Addon</a></strong> -
     <strong><a href="https://github.com/sidex15/susfs4ksu-module">SusFS</a></strong> -
