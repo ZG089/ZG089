@@ -16,7 +16,7 @@
 
 # 👦 About Me:
 I am a 18-year-old Egyptian developer, and a 11th grader, who love android development, magisk modules development, and coding!
-I always have the passion to be better, and I always improve my knowledge with android-related stuff.
+I always have the passion to be better, and I always seek to improve my knowledge with anything related to android.
 
 # You can reach me out via:
 [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg)](https://discord.com/users/594080319007883264)
