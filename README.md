@@ -49,7 +49,7 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/bmax121/APatch">APatch</a></strong> -
     <strong><a href="https://github.com/LSPosed/LSPosed">LSPosed</a></strong> -
     <strong><a href="https://github.com/Magisk-Modules-Alt-Repo/Malwack">Malwack</a></strong> -
-    <strong><a href="https://github.com/backslashxx/bindhosts">BindHosts</a></strong> -
+    <strong><a href="https://github.com/bindhosts/bindhosts">BindHosts</a></strong> -
     <strong><a href="https://github.com/frknkrc44/HMA-OSS">HMA-OSS</a></strong> -
     <strong><a href="https://github.com/mikropsoft/StevenBlock">StevenBlock</a></strong> -
     <strong><a href="https://github.com/KOWX712/Tricky-Addon-Update-Target-List">Tricky Addon</a></strong> -
