@@ -44,6 +44,7 @@ I always have the passion to be better, and I always seek to improve my knowledg
 ## 🤩 Projects I have helped with
 <div align="center">
     <strong><a href="https://github.com/topjohnwu/Magisk">Magisk</a></strong> -
+    <strong><a href="https://github.com/Seyud/WeaveMask">WeaveMask</a></strong> -
     <strong><a href="https://github.com/KernelSU-Next/KernelSU-Next">KernelSU Next</a></strong> - 
     <strong><a href="https://github.com/KernelSU-Next/KPatch-Next-Module">KPatch Next</a></strong> -
     <strong><a href="https://github.com/bmax121/APatch">APatch</a></strong> -
