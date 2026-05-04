@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/ZG089/ZG089/refs/heads/main/assets/Banner.png)
 <div align="center">
   <picture>
-    <img src="https://card.shiina.xyz/card/ZG089?compact=true&animate=true&bg_color=000000&title_color=5224c4&text_color=5224c4&icon_color=5224c4&border_color=5224c4" alt="GitHub Stats" />
+    <img src="https://card.shiina.xyz/card/ZG089?animate=true&bg_color=000000&title_color=5224c4&text_color=5224c4&icon_color=5224c4&border_color=5224c4" alt="GitHub Stats" />
   </picture>
 </div>
 
