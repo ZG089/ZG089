@@ -35,9 +35,9 @@ I always have the passion to be better, and I always seek to improve my knowledg
 # ✨ My Learning sources
 ![Udacity](https://img.shields.io/badge/Udacity-white?style=for-the-badge&logo=udacity&logoColor=#5FCFEE) ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) ![FREECODECAMP](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![Youtube](https://img.shields.io/badge/Youtube-%23B92B27.svg?&style=for-the-badge&logo=youtube&logoColor=white)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=ZG089)
-## 🤩 Projects I have helped with
+# 🤩 Projects I have helped with
 <div align="center">
     <strong><a href="https://github.com/topjohnwu/Magisk">Magisk</a></strong> -
     <strong><a href="https://github.com/Seyud/WeaveMask">WeaveMask</a></strong> -
