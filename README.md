@@ -51,7 +51,7 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/mikropsoft/StevenBlock">StevenBlock</a></strong> -
     <strong><a href="https://github.com/KOWX712/Tricky-Addon-Update-Target-List">Tricky Addon</a></strong> -
     <strong><a href="https://github.com/sidex15/susfs4ksu-module">SusFS</a></strong> -
-    <strong><a href="https://github.com/KOWX712/PlayIntegrityFix">PlayIntegrityFix (Fork by KOWX712)</a></strong> -
+    <strong><a href="https://github.com/KOWX712/PlayIntegrityFix">PIF-INJECT</a></strong> -
     <strong><a href="https://github.com/KOWX712/KernelSU">KowSU</a></strong> -
      <strong><a href="https://github.com/eltavine/Duck-Detector-Refactoring">DuckDetector</a></strong> -
     <strong><a href="https://github.com/PerformanC/ReZygisk">ReZygisk</a></strong> -
@@ -71,11 +71,11 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/mrx7014/SuperMario-Tweaker">SMTW (Discontinued)</a></strong> -
     <strong><a href="https://github.com/omersusin/ABBMS">ABBMS</a></strong> -
     <strong><a href="https://github.com/WSTxda/Clippy">Clippy</a></strong> -
-    <strong><a href="https://github.com/mrx7014/S24Ultra-Spoofer">S24U-Spoofer</a></strong> -
+    <strong><a href="https://github.com/armond0x/S24Ultra-Spoofer">S24U-Spoofer</a></strong> -
     <strong><a href="https://github.com/ycngmn/Nobook">NoBook</a></strong> -
     <strong><a href="https://t.me/ErosMobileTool">ErosFlashTool</a></strong> -
     <strong><a href="https://github.com/MMRLApp/WebUI-X-Portable">WebUIX-Portable</a></strong> -
-    <strong><a href="https://github.com/mrx7014/ProjectVortex">ProjectVortex</a></strong> -
+    <strong><a href="https://github.com/armond0x/ProjectVortex">ProjectVortex</a></strong> -
     <strong><a href="https://github.com/daglaroglou/LimitlessPhotos">LimitlessPhotos</a></strong> -
     <strong><a href="https://github.com/WSTxda/SwitchAI">SwitchAI</a></strong> -
     <strong><a href="https://github.com/imjyotiraditya/EchoirX">EchoirX (DISCONTINUED)</a></strong> -
