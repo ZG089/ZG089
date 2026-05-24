@@ -42,9 +42,9 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/topjohnwu/Magisk">Magisk</a></strong> -
     <strong><a href="https://github.com/Seyud/WeaveMask">WeaveMask</a></strong> -
     <strong><a href="https://github.com/KernelSU-Next/KernelSU-Next">KernelSU Next</a></strong> - 
-    <strong><a href="https://github.com/KernelSU-Next/KPatch-Next-Module">KPatch Next</a></strong> -
-    <strong><a href="https://github.com/bmax121/APatch">APatch</a></strong> -
+  <strong><a href="https://github.com/bmax121/APatch">APatch</a></strong> -
     <strong><a href="https://github.com/LSPosed/LSPosed">LSPosed</a></strong> -
+    <strong><a href="https://github.com/KernelSU-Next/KPatch-Next-Module">KPatch Next</a></strong> -
     <strong><a href="https://github.com/Magisk-Modules-Alt-Repo/Malwack">Malwack</a></strong> -
     <strong><a href="https://github.com/bindhosts/bindhosts">BindHosts</a></strong> -
     <strong><a href="https://github.com/frknkrc44/HMA-OSS">HMA-OSS</a></strong> -
