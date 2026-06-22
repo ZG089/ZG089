@@ -11,7 +11,7 @@
 
 
 # 👦 About Me:
-I am a 18-year-old Egyptian developer, and a 11th grader, who love android development, magisk modules development, and coding!
+I am a 18-year-old Egyptian developer, and a 12th grader, who loves android development, magisk modules development, and coding!
 I always have the passion to be better, and I always seek to improve my knowledge with anything related to android.
 
 # You can reach me out via:
