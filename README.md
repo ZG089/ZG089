@@ -1,14 +1,15 @@
 ![Banner](https://raw.githubusercontent.com/ZG089/ZG089/refs/heads/main/assets/Banner.png)
 <div align="center">
+  <img src="https://top-badge.vercel.app/egypt/ZG089?label=&color=5224c4&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Egypt" alt="Ranking in Egypt" class="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=ZG089&repo=ZG089&countColor=%235224c4&labelColor=%23000000" alt="Profile Views" class="center">
+</div>
+
+
+<div align="center">
   <picture>
     <img src="https://card.shiina.xyz/card/ZG089?animate=true&bg_color=000000&title_color=5224c4&text_color=ffffff&icon_color=5224c4&border_color=5224c4" alt="GitHub Stats" />
   </picture>
 </div>
-
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=ZG089&repo=ZG089&countColor=%235224c4&labelColor=%23000000" alt="Profile Views" class="center">
-</div>
-
 
 # 👦 About Me:
 I am a 18-year-old Egyptian developer, and a 12th grader, who loves android development, magisk modules development, and coding!
