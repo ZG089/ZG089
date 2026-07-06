@@ -80,7 +80,7 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/armond0x/ProjectVortex">ProjectVortex</a></strong> -
     <strong><a href="https://github.com/daglaroglou/LimitlessPhotos">LimitlessPhotos</a></strong> -
     <strong><a href="https://github.com/WSTxda/SwitchAI">SwitchAI</a></strong> -
-    <strong><a href="https://github.com/imjyotiraditya/EchoirX">EchoirX (DISCONTINUED)</a></strong> -
+    <strong><a href="https://github.com/imjyotiraditya/EchoirX">EchoirX (Discontinued)</a></strong> -
     <strong><a href="https://github.com/YasserNull/setbox">SetBox</a></strong> -
     <strong><a href="https://github.com/fagramdesktop">Fagram</a></strong>
 </div>
