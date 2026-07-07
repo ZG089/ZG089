@@ -10,7 +10,7 @@
 
 <div align="center">
   <picture>
-    <img src="https://card.shiina.xyz/card/ZG089?animate=true&bg_color=4d4d4d&title_color=cacfcb&text_color=cacfcb&icon_color=cacfcb&border_color=cacfcb" alt="GitHub Stats" />
+    <img src="https://card.shiina.xyz/card/ZG089?animate=true&bg_color=4d4d4d&title_color=cacfcb&text_color=ffffff&icon_color=cacfcb&border_color=cacfcb" alt="GitHub Stats" />
   </picture>
 </div>
 
