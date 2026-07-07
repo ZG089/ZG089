@@ -1,13 +1,16 @@
-![Banner](https://raw.githubusercontent.com/ZG089/ZG089/refs/heads/main/assets/Banner.png)
+![Banner](https://raw.githubusercontent.com/ZG089/ZG089/main/assets/Banner.png)
 <div align="center">
-  <img src="https://top-badge.vercel.app/egypt/ZG089?label=&color=5224c4&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Egypt" alt="Ranking in Egypt" class="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=ZG089&repo=ZG089&countColor=%235224c4&labelColor=%23000000" alt="Profile Views" class="center">
+ <h1>Hello there! I'm ZG089✨</h1>
 </div>
 
+<div align="center">
+  <img src="https://top-badge.vercel.app/egypt/ZG089?label=&color=4d4d4d&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Egypt" alt="Ranking in Egypt" class="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=ZG089&repo=ZG089&countColor=%23cacfcb&labelColor=%23#4d4d4d" alt="Profile Views" class="center">
+</div>
 
 <div align="center">
   <picture>
-    <img src="https://card.shiina.xyz/card/ZG089?animate=true&bg_color=000000&title_color=5224c4&text_color=ffffff&icon_color=5224c4&border_color=5224c4" alt="GitHub Stats" />
+    <img src="https://card.shiina.xyz/card/ZG089?animate=true&bg_color=4d4d4d&title_color=cacfcb&text_color=cacfcb&icon_color=cacfcb&border_color=cacfcb" alt="GitHub Stats" />
   </picture>
 </div>
 
