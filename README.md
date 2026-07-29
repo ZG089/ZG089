@@ -42,7 +42,9 @@ I always have the passion to be better, and I always seek to improve my knowledg
 # 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=ZG089)
 # 🤩 Projects I have helped with
+### NOTE: Contributions may contain Code contributions, and/or project translations (Arabic)
 <div align="center">
+    <strong><a href="https://proton.me">Proton AG</a></strong> -
     <strong><a href="https://github.com/topjohnwu/Magisk">Magisk</a></strong> -
     <strong><a href="https://github.com/Seyud/WeaveMask">WeaveMask</a></strong> -
     <strong><a href="https://github.com/Anto426/Magisk-but-expressive">Magisk-But-Expressive</a></strong> -
