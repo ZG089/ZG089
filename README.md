@@ -66,6 +66,7 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://encore.rem01gaming.dev/">Encore Tweaks</a></strong> -
     <strong><a href="https://github.com/DerGoogler/MMRL">MMRL</a></strong> -
     <strong><a href="https://github.com/YurikeyDev/yurikey">Yurikey</a></strong> -
+    <strong><a href="https://github.com/Royna2544/StickersFTW">StickersFTW</a></strong> -
     <strong><a href="https://github.com/theahadev/simple-ub">simple-ub</a></strong> - 
     <strong><a href="https://github.com/XayahSuSuSu/Android-DataBackup">DataBackup</a></strong> - 
     <strong><a href="https://play.google.com/store/apps/details?id=com.paget96.batteryguru">BatteryGuru</a></strong> -
