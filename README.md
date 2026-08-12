@@ -60,7 +60,7 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/sidex15/susfs4ksu-module">SusFS</a></strong> -
     <strong><a href="https://github.com/KOWX712/PlayIntegrityFix">PIF-INJECT</a></strong> -
     <strong><a href="https://github.com/KOWX712/KernelSU">KowSU</a></strong> -
-     <strong><a href="https://github.com/eltavine/Duck-Detector-Refactoring">DuckDetector</a></strong> -
+    <strong><a href="https://github.com/eltavine/Duck-Detector-Refactoring">DuckDetector</a></strong> -
     <strong><a href="https://github.com/PerformanC/ReZygisk">ReZygisk</a></strong> -
     <strong><a href="https://github.com/salvogiangri/UN1CA">UN1CA</a></strong> -
     <strong><a href="https://encore.rem01gaming.dev/">Encore Tweaks</a></strong> -
@@ -70,6 +70,7 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/theahadev/simple-ub">simple-ub</a></strong> - 
     <strong><a href="https://github.com/XayahSuSuSu/Android-DataBackup">DataBackup</a></strong> - 
     <strong><a href="https://play.google.com/store/apps/details?id=com.paget96.batteryguru">BatteryGuru</a></strong> -
+    <strong><a href="https://github.com/UserJoo9/QuotaManager">QuotaManager</a></strong> -
     <strong><a href="https://github.com/WSTxda/ViperFX-RE-Releases">ViperFX For Android</a></strong> -
     <strong><a href="https://github.com/Sparkleseditor/Sparkleseditor">Sparkles Editor</a></strong> -
     <strong><a href="https://github.com/fynks/awesome-android-root">awesome-android-root</a></strong> -
