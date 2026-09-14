@@ -103,7 +103,8 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/chisewaguri/systemapp_nuker">systemapp_nuker</a></strong> -
     <strong><a href="https://github.com/awesome-android-root/awesome-android-root">awesome-android-root</a></strong> -
     <strong><a href="https://github.com/ZG089/Re-Malwack">Re-Malwack</a></strong> -
-    <strong><a href="https://github.com/YFMARCO-Dev/YFMARCO-Dev">YFMARCO-Dev</a></strong>
+    <strong><a href="https://github.com/YFMARCO-Dev/YFMARCO-Dev">YFMARCO-Dev</a></strong> -
+    <strong><a href="https://github.com/uonou/mmrl-repo">mmrl-repo</a></strong>
 </div>
 
   ## 💰 You can support me by Donating, your help to me will always be appreciated!
