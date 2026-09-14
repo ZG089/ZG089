@@ -9,6 +9,7 @@ const ignoredRepositories = new Set([
   "awesome-android-root/awesome-android-root",
   "ZG089/Re-Malwack",
   "YFMARCO-Dev/YFMARCO-Dev",
+  "uonou/mmrl-repo",
 ].map((repository) => repository.toLowerCase()));
 
 if (!token) {
@@ -133,6 +134,10 @@ function renderEntries(entries) {
     .join("\n");
 }
 
+function logChange(message) {
+  console.log(message);
+}
+
 async function updateReadme() {
   const readme = await readFile(readmePath, "utf8");
   const heading = "# 🤩 Projects I have helped with";
@@ -144,7 +149,12 @@ async function updateReadme() {
   if (blockStart < 0 || blockEnd < 0) throw new Error("Could not find contribution block");
 
   const oldBlock = readme.slice(blockStart, blockEnd + "</div>".length);
-  const entries = parseEntries(oldBlock);
+  const entries = parseEntries(oldBlock).filter((entry) => {
+    const repositoryPath = githubPath(entry.href);
+    if (!repositoryPath || !ignoredRepositories.has(repositoryPath.toLowerCase())) return true;
+    logChange(`removed ignored repository: ${repositoryPath}`);
+    return false;
+  });
   const byRepository = new Map();
 
   for (const entry of entries) {
@@ -161,18 +171,32 @@ async function updateReadme() {
         label: discontinuedLabel(repository.label || repositoryPath.split("/")[1], repository.discontinued),
       });
       entries.push(byRepository.get(key));
+      logChange(`new contribution: ${repositoryPath}`);
     }
   }
 
   for (const entry of entries) {
     const repositoryPath = githubPath(entry.href);
-    if (repositoryPath && ignoredRepositories.has(repositoryPath.toLowerCase())) continue;
     const result = repositoryPath
       ? await fetchRepository(repositoryPath)
       : await checkLink(entry.href);
+    const previousHref = entry.href;
+    const previousLabel = entry.label;
+    const previousDiscontinued = /\(Discontinued\)$/i.test(previousLabel);
     if (result.href) entry.href = result.href;
     if (result.label) entry.label = result.label;
     entry.label = discontinuedLabel(entry.label, result.discontinued);
+    if (entry.href !== previousHref || entry.label !== previousLabel) {
+      if (entry.href !== previousHref) {
+        logChange(`repo owner update: ${previousHref} -> ${entry.href}`);
+      }
+      if (entry.label !== previousLabel) {
+        logChange(`repo name update: ${previousLabel} -> ${entry.label}`);
+      }
+    }
+    if (!previousDiscontinued && result.discontinued) {
+      logChange(`repo discontinued: ${entry.href}`);
+    }
   }
 
   const newBlock = `<div align="center">\n${renderEntries(entries)}\n</div>`;
