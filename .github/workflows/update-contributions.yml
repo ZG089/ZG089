@@ -1,0 +1,34 @@
+name: Update contributed projects
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Update contribution list
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CONTRIBUTOR_LOGIN: ${{ github.repository_owner }}
+        run: node .github/scripts/update-contributions.mjs
+
+      - name: Commit README changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No README changes to commit."
+            exit 0
+          fi
+          git config user.name "ZG089"
+          git config user.email "159061718+ZG089@users.noreply.github.com"
+          git add README.md
+          git commit -m "readme: new contributions :D"
+          git push
