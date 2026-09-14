@@ -4,6 +4,12 @@ const token = process.env.GITHUB_TOKEN;
 const login = process.env.CONTRIBUTOR_LOGIN || "ZG089";
 const readmePath = process.env.README_PATH || "README.md";
 const apiBase = "https://api.github.com";
+const ignoredRepositories = new Set([
+  "fagramdesktop/localization",
+  "awesome-android-root/awesome-android-root",
+  "ZG089/Re-Malwack",
+  "YFMARCO-Dev/YFMARCO-Dev",
+].map((repository) => repository.toLowerCase()));
 
 if (!token) {
   throw new Error("GITHUB_TOKEN is required");
@@ -39,7 +45,9 @@ async function getMergedRepositories() {
     for (const item of result.items) {
       const repositoryUrl = item.repository_url;
       const match = repositoryUrl?.match(/\/repos\/([^/]+\/[^/]+)$/);
-      if (match) repositories.set(match[1].toLowerCase(), match[1]);
+      if (match && !ignoredRepositories.has(match[1].toLowerCase())) {
+        repositories.set(match[1].toLowerCase(), match[1]);
+      }
     }
     if (result.items.length < 100) break;
     page += 1;
@@ -158,6 +166,7 @@ async function updateReadme() {
 
   for (const entry of entries) {
     const repositoryPath = githubPath(entry.href);
+    if (repositoryPath && ignoredRepositories.has(repositoryPath.toLowerCase())) continue;
     const result = repositoryPath
       ? await fetchRepository(repositoryPath)
       : await checkLink(entry.href);
