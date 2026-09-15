@@ -75,7 +75,6 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/UserJoo9/QuotaManager">QuotaManager</a></strong> -
     <strong><a href="https://github.com/WSTxda/ViperFX-RE-Releases">ViperFX-RE-Releases (Discontinued)</a></strong> -
     <strong><a href="https://github.com/Sparkleseditor/SparklesEditor">SparklesEditor</a></strong> -
-    <strong><a href="https://github.com/awesome-android-root/awesome-android-root">awesome-android-root</a></strong> -
     <strong><a href="https://github.com/WSTxda/Google-Shortcuts-Launcher">Google-Shortcuts-Launcher</a></strong> -
     <strong><a href="https://github.com/theimpulson/ReLabs">ReLabs (Discontinued)</a></strong> -
     <strong><a href="https://github.com/ihatenodejs/BeeSrv">BeeSrv</a></strong> -
@@ -97,14 +96,9 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/NullXperience/nullex.updater">nullex.updater</a></strong> -
     <strong><a href="https://github.com/ShiinaSaku/Hayate">Hayate</a></strong> -
     <strong><a href="https://github.com/mrx7014/TermuxKDE">TermuxKDE</a></strong> -
-    <strong><a href="https://github.com/fagramdesktop/localization">localization</a></strong> -
     <strong><a href="https://github.com/Yurii0307/yurikey">yurikey</a></strong> -
     <strong><a href="https://github.com/mrx7014/SpoofingCollection">SpoofingCollection</a></strong> -
-    <strong><a href="https://github.com/chisewaguri/systemapp_nuker">systemapp_nuker</a></strong> -
-    <strong><a href="https://github.com/awesome-android-root/awesome-android-root">awesome-android-root</a></strong> -
-    <strong><a href="https://github.com/ZG089/Re-Malwack">Re-Malwack</a></strong> -
-    <strong><a href="https://github.com/YFMARCO-Dev/YFMARCO-Dev">YFMARCO-Dev</a></strong> -
-    <strong><a href="https://github.com/uonou/mmrl-repo">mmrl-repo</a></strong>
+    <strong><a href="https://github.com/chisewaguri/systemapp_nuker">systemapp_nuker</a></strong>
 </div>
 
   ## 💰 You can support me by Donating, your help to me will always be appreciated!
