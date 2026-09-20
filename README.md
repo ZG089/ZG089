@@ -78,7 +78,7 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/WSTxda/Google-Shortcuts-Launcher">Google-Shortcuts-Launcher</a></strong> -
     <strong><a href="https://github.com/theimpulson/ReLabs">ReLabs (Discontinued)</a></strong> -
     <strong><a href="https://github.com/ihatenodejs/BeeSrv">BeeSrv</a></strong> -
-    <strong><a href="https://github.com/mrx7014/SuperMario-Tweaker">SuperMario-Tweaker</a></strong> -
+    <strong><a href="https://github.com/mrx7014/SuperMario-Tweaker">SuperMario-Tweaker (Discontinued)</a></strong> -
     <strong><a href="https://github.com/omersusin/ABBMS">ABBMS (Discontinued)</a></strong> -
     <strong><a href="https://github.com/WSTxda/Clippy">Clippy</a></strong> -
     <strong><a href="https://github.com/armond0x/S24Ultra-Spoofer">S24U-Spoofer (Discontinued)</a></strong> -
@@ -97,7 +97,7 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/ShiinaSaku/Hayate">Hayate</a></strong> -
     <strong><a href="https://github.com/mrx7014/TermuxKDE">TermuxKDE</a></strong> -
     <strong><a href="https://github.com/Yurii0307/yurikey">yurikey</a></strong> -
-    <strong><a href="https://github.com/mrx7014/SpoofingCollection">SpoofingCollection</a></strong> -
+    <strong><a href="https://github.com/mrx7014/SpoofingCollection">SpoofingCollection (Discontinued)</a></strong> -
     <strong><a href="https://github.com/chisewaguri/systemapp_nuker">systemapp_nuker</a></strong>
 </div>
 
