@@ -56,7 +56,7 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/Magisk-Modules-Alt-Repo/Malwack">Malwack</a></strong> -
     <strong><a href="https://github.com/bindhosts/bindhosts">bindhosts</a></strong> -
     <strong><a href="https://github.com/frknkrc44/HMA-OSS">HMA-OSS</a></strong> -
-    <strong><a href="https://github.com/NullXperience/nullex.updater">nullex.updater</a></strong> -
+    <strong><a href="https://github.com/NullXperienceArchives/nullex.updater">nullex.updater (Discontinued)</a></strong> -
     <strong><a href="https://github.com/mikropsoft/StevenBlock">StevenBlock</a></strong> -
     <strong><a href="https://github.com/KOWX712/Tricky-Addon-Update-Target-List">Tricky-Addon-Update-Target-List</a></strong> -
     <strong><a href="https://github.com/sidex15/susfs4ksu-module">susfs4ksu-module</a></strong> -
@@ -93,12 +93,13 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/fagramdesktop">Fagram</a></strong> -
     <strong><a href="https://github.com/NahidaBuer/Aywgram">Aywgram</a></strong> -
     <strong><a href="https://github.com/fagramdesktop/fadesktop">fadesktop</a></strong> -
-    <strong><a href="https://github.com/NullXperience/nullex.updater">nullex.updater</a></strong> -
+    <strong><a href="https://github.com/NullXperienceArchives/nullex.updater">nullex.updater (Discontinued)</a></strong> -
     <strong><a href="https://github.com/ShiinaSaku/Hayate">Hayate</a></strong> -
     <strong><a href="https://github.com/mrx7014/TermuxKDE">TermuxKDE</a></strong> -
     <strong><a href="https://github.com/Yurii0307/yurikey">yurikey</a></strong> -
     <strong><a href="https://github.com/mrx7014/SpoofingCollection">SpoofingCollection (Discontinued)</a></strong> -
-    <strong><a href="https://github.com/chisewaguri/systemapp_nuker">systemapp_nuker</a></strong>
+    <strong><a href="https://github.com/chisewaguri/systemapp_nuker">systemapp_nuker</a></strong> -
+    <strong><a href="https://github.com/NullXperienceArchives/nullex.updater">nullex.updater (Discontinued)</a></strong>
 </div>
 
   ## 💰 You can support me by Donating, your help to me will always be appreciated!
