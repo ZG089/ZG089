@@ -93,13 +93,10 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/fagramdesktop">Fagram</a></strong> -
     <strong><a href="https://github.com/NahidaBuer/Aywgram">Aywgram</a></strong> -
     <strong><a href="https://github.com/fagramdesktop/fadesktop">fadesktop</a></strong> -
-    <strong><a href="https://github.com/NullXperienceArchives/nullex.updater">nullex.updater (Discontinued)</a></strong> -
     <strong><a href="https://github.com/ShiinaSaku/Hayate">Hayate</a></strong> -
     <strong><a href="https://github.com/mrx7014/TermuxKDE">TermuxKDE</a></strong> -
-    <strong><a href="https://github.com/Yurii0307/yurikey">yurikey</a></strong> -
     <strong><a href="https://github.com/mrx7014/SpoofingCollection">SpoofingCollection (Discontinued)</a></strong> -
-    <strong><a href="https://github.com/chisewaguri/systemapp_nuker">systemapp_nuker</a></strong> -
-    <strong><a href="https://github.com/NullXperienceArchives/nullex.updater">nullex.updater (Discontinued)</a></strong>
+    <strong><a href="https://github.com/chisewaguri/systemapp_nuker">systemapp_nuker</a></strong>
 </div>
 
   ## 💰 You can support me by Donating, your help to me will always be appreciated!
