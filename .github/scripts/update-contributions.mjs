@@ -155,12 +155,17 @@ async function updateReadme() {
     logChange(`removed ignored repository: ${repositoryPath}`);
     return false;
   });
-  const byRepository = new Map();
 
+  const byRepository = new Map();
   for (const entry of entries) {
     const repositoryPath = githubPath(entry.href);
-    if (repositoryPath) byRepository.set(repositoryPath.toLowerCase(), entry);
+    const dedupeKey = repositoryPath ? repositoryPath.toLowerCase() : entry.href;
+    if (!byRepository.has(dedupeKey)) {
+      byRepository.set(dedupeKey, entry);
+    }
   }
+
+  const dedupedEntries = [...byRepository.values()];
 
   for (const repositoryPath of await getMergedRepositories()) {
     const key = repositoryPath.toLowerCase();
@@ -170,12 +175,13 @@ async function updateReadme() {
         href: repository.href || `https://github.com/${repositoryPath}`,
         label: discontinuedLabel(repository.label || repositoryPath.split("/")[1], repository.discontinued),
       });
-      entries.push(byRepository.get(key));
       logChange(`new contribution: ${repositoryPath}`);
     }
   }
 
-  for (const entry of entries) {
+  const allEntries = [...byRepository.values()];
+
+  for (const entry of allEntries) {
     const repositoryPath = githubPath(entry.href);
     const result = repositoryPath
       ? await fetchRepository(repositoryPath)
@@ -199,10 +205,10 @@ async function updateReadme() {
     }
   }
 
-  const newBlock = `<div align="center">\n${renderEntries(entries)}\n</div>`;
+  const newBlock = `<div align="center">\n${renderEntries(allEntries)}\n</div>`;
   const updatedReadme = readme.replace(oldBlock, newBlock);
   if (updatedReadme !== readme) await writeFile(readmePath, updatedReadme);
-  console.log(`Checked ${entries.length} contribution(s); README ${updatedReadme === readme ? "unchanged" : "updated"}.`);
+  console.log(`Checked ${allEntries.length} contribution(s); README ${updatedReadme === readme ? "unchanged" : "updated"}.`);
 }
 
 await updateReadme();
