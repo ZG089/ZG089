@@ -96,7 +96,8 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/ShiinaSaku/Hayate">Hayate</a></strong> -
     <strong><a href="https://github.com/mrx7014/TermuxKDE">TermuxKDE</a></strong> -
     <strong><a href="https://github.com/mrx7014/SpoofingCollection">SpoofingCollection (Discontinued)</a></strong> -
-    <strong><a href="https://github.com/chisewaguri/systemapp_nuker">systemapp_nuker</a></strong>
+    <strong><a href="https://github.com/chisewaguri/systemapp_nuker">systemapp_nuker</a></strong> -
+    <strong><a href="https://github.com/juanma0511/kknd_Root_Detector">kknd_Root_Detector</a></strong>
 </div>
 
   ## 💰 You can support me by Donating, your help to me will always be appreciated!
