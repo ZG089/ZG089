@@ -90,7 +90,6 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/WSTxda/SwitchAI">SwitchAI</a></strong> -
     <strong><a href="https://github.com/imjyotiraditya/EchoirX">EchoirX (Discontinued)</a></strong> -
     <strong><a href="https://github.com/YasserNull/setbox">setbox (Discontinued)</a></strong> -
-    <strong><a href="https://github.com/fagramdesktop">Fagram</a></strong> -
     <strong><a href="https://github.com/NahidaBuer/Aywgram">Aywgram</a></strong> -
     <strong><a href="https://github.com/fagramdesktop/fadesktop">fadesktop</a></strong> -
     <strong><a href="https://github.com/ShiinaSaku/Hayate">Hayate</a></strong> -
