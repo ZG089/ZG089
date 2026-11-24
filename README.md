@@ -69,7 +69,7 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/itsyumiki/simple-ub">simple-ub</a></strong> -
     <strong><a href="https://github.com/XayahSuSuSu/Android-DataBackup">Android-DataBackup</a></strong> -
     <strong><a href="https://play.google.com/store/apps/details?id=com.paget96.batteryguru">BatteryGuru</a></strong> -
-    <strong><a href="https://github.com/UserJoo9/QuotaManager">QuotaManager</a></strong> -
+    <strong><a href="https://github.com/UserJoo9/Netrex">Netrex</a></strong> -
     <strong><a href="https://github.com/WSTxda/ViperFX-RE-Releases">ViperFX-RE-Releases (Discontinued)</a></strong> -
     <strong><a href="https://github.com/Sparkleseditor/SparklesEditor">SparklesEditor</a></strong> -
     <strong><a href="https://github.com/WSTxda/Google-Shortcuts-Launcher">Google-Shortcuts-Launcher</a></strong> -
@@ -95,7 +95,8 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/chisewaguri/systemapp_nuker">systemapp_nuker</a></strong> -
     <strong><a href="https://github.com/juanma0511/kknd_Root_Detector">kknd_Root_Detector</a></strong> -
     <strong><a href="https://github.com/dpejoh/specter">specter</a></strong> -
-    <strong><a href="https://github.com/dnascorpionofficial/KsuWebUI-SN">KsuWebUI-SN</a></strong>
+    <strong><a href="https://github.com/dnascorpionofficial/KsuWebUI-SN">KsuWebUI-SN</a></strong> -
+    <strong><a href="https://github.com/UserJoo9/Netrex">Netrex</a></strong>
 </div>
 
   ## 💰 You can support me by Donating, your help to me will always be appreciated!
