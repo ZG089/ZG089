@@ -95,8 +95,7 @@ I always have the passion to be better, and I always seek to improve my knowledg
     <strong><a href="https://github.com/chisewaguri/systemapp_nuker">systemapp_nuker</a></strong> -
     <strong><a href="https://github.com/juanma0511/kknd_Root_Detector">kknd_Root_Detector</a></strong> -
     <strong><a href="https://github.com/dpejoh/specter">specter</a></strong> -
-    <strong><a href="https://github.com/dnascorpionofficial/KsuWebUI-SN">KsuWebUI-SN</a></strong> -
-    <strong><a href="https://github.com/UserJoo9/Netrex">Netrex</a></strong>
+    <strong><a href="https://github.com/dnascorpionofficial/KsuWebUI-SN">KsuWebUI-SN</a></strong>
 </div>
 
   ## 💰 You can support me by Donating, your help to me will always be appreciated!
